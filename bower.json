@@ -1,0 +1,17 @@
+{
+  "name": "window.breakpoint",
+  "version": "0.0.1",
+  "description": "Custom window resize event. The breakpoint event is fired at each defined breakpoint very much like mediaqueries are triggered. This custom event is great purpose for hybrid responsive/adaptive designs, where javascript functionality needs to be enabled or disabled at different breakpoints.",
+  "main": "window.breakpoint.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "window.breakpoint"
+  ],
+  "authors": [
+    "Alberto Chang"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/changalberto/window.breakpoint.js"
+}
