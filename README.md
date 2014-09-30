@@ -16,7 +16,7 @@ window.breakpoints = {
 };
 
 ```
-You can define your own custom breakpoint by defining your own window.breakpoints object at the start. Example:
+You can define your own custom breakpoints by creating your own window.breakpoints object at the start. Example:
 ```JavaScript
 window.breakpoints = {
   xs: [0, 320],
