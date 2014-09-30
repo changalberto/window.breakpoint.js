@@ -6,12 +6,29 @@
   "moduleType": [
     "globals"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/changalberto/window.breakpoint.js.git"
+  },
   "keywords": [
-    "window.breakpoint"
+    "window.breakpoint",
+    "javascript",
+    "breakpoint",
+    "event"
   ],
   "authors": [
     "Alberto Chang"
   ],
-  "license": "MIT",
+  "ignore": [
+    "*.md",
+    ".json",
+    "*.html",
+    "LICENCE",
+    "bower.json"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/changalberto/window.breakpoint.js/blob/master/LICENSE"
+  },
   "homepage": "https://github.com/changalberto/window.breakpoint.js"
 }
