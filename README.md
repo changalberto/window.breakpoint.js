@@ -42,3 +42,11 @@ window.addEventListener('breakpoint', function(e){
   }
 }, false);
 ```
+
+Install
+-------
+``bower install window.breakpoint.js``
+
+```html
+<script src="bower_components/window.breakpoint.js/window.breakpoint.js"></script>
+```
